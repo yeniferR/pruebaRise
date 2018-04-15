@@ -1,0 +1,103 @@
+
+<style>
+
+div {
+    padding: 25px 50px 75px;
+}
+p{
+  color: BLACK;
+}
+p.w3-center{
+  color: white;
+
+
+}
+p.na{
+  color: white;
+
+}
+a.valor1{
+	font-size: 14px;
+}
+input[type=text] {
+  
+  font-size: 16px;
+  background-color: white;
+
+  background-position: 50px 130px; 
+  
+  
+  
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  vertical-align: middle;
+}
+
+
+.container {
+  position: relative;
+}
+
+
+.caption-container {
+  text-align: center;
+  background-color: #222;
+  padding: 2px 16px;
+  color: white;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.column {
+  float: left;
+  width: 10.66%;
+}
+
+
+
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+div.relative {
+  position: absolute;
+  left: 810px;
+  top: 90px;
+ 
+  
+}
+div.relativa {
+  position: absolute;
+  left:810px;
+  top: 130px;
+  
+
+}
+div.relativa1 {
+  position: absolute;
+  left: 0px;
+  top: 50px;
+
+}
+button.w3-light-red{
+  position: absolute;
+  left: 810px;
+  top: 260px;
+  color: white;
+
+}
+
+</style>
